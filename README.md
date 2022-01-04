@@ -1,2 +1,2 @@
-# SK8s "skates" ;-)
+# SK8s a.k.a "skates" ;-)
 Structure Kubernetes Language
